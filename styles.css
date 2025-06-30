@@ -847,9 +847,9 @@ button.header-icon.menu-open {
     z-index: 100;
 }
 
-@media (min-width: 1024px) {
+@media (min-width: 800px) {
   .hero-image {
-    object-position: 600% 10% !important;
+    object-position: 300% 10% !important;
     object-fit: cover;
     display: block;
   }
