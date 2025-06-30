@@ -849,7 +849,7 @@ button.header-icon.menu-open {
 
 @media (min-width: 1024px) {
   .hero-image {
-    object-position: 1000% 10% !important;
+    object-position: 900% 10% !important;
     object-fit: cover;
     display: block;
   }
